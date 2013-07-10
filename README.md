@@ -16,7 +16,7 @@ Run
 where <URL> is the ssh URL from your forked repository (what you usually use to clone from, 
 something in the form of "git@github.com:USERNMAE/REPO_NAME.git")
 
-If the homework destination is already defined, to SET thisthe destination as a new URL, do:
+If the 'homework' destination is already defined, instead SET the destination as a new URL:
 
 ``git remote set-url homework <URL>`` 
 
